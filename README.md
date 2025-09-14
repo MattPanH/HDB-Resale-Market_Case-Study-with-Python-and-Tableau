@@ -1,9 +1,9 @@
 <h2> Introduction </h2>
-I am an analyst at HDB and has just received a series of questions from senior management. I am tasked with the development of interactive dashboards, predictive models, and policy analysis using HDB resale market data from data.gov.sg. or any other reliable sources. Upon completion, I will present a summary of my findings and insights to HDB senior management
+I am an analyst at HDB and has just received a series of questions from senior management. I am tasked with the development of interactive dashboards, predictive models, and policy analysis using HDB resale market data from data.gov.sg. or any other reliable sources. Upon completion, I will present a summary of my findings and insights to HDB senior management.
 <br>
 <br>
 <h2> Problem Statement </h2>
-To understand the key factors influencing the 1) duration of a clinical trial and the 2) approval status of the drug being tested. <br>
+To visualise HDB resale market data via interactive Tableau dashboards, predict HDB resale flat characteristics via machine learning models, and analyse the HDB resale market using statistical techniques and models. <br>
 <br>
 <h2> Objectives </h2>
 1) To equip potential buyers of HDB resale flats with the necessary information to make informed decisions via interactive dashboards.<br> 
