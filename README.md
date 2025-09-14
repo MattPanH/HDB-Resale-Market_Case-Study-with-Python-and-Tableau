@@ -25,10 +25,10 @@ All datasets have been uploaded on the repository for easy reference.
 <br>
 <h2> Dashboard Screenshots</h2>
 Dashboard A) HDB Transactions Overview
-<img width="1370" height="771" alt="HDB Transactions Overview Screenshot" src="https://github.com/user-attachments/assets/72d246bb-353c-48a6-9ab9-18815ec3abca" />
+<img width="1375" height="776" alt="HDB Transactions Overview Screenshot" src="https://github.com/user-attachments/assets/a9a58230-7969-4343-adc9-86d5f3478866" />
 <br> <br>
 Dashboard B) Largest HDB Flat Finder
-<img width="1371" height="771" alt="Largest HDB Flat Finder Screenshot" src="https://github.com/user-attachments/assets/caa6bdfd-0fa3-4692-bc23-14905acc188c" />
+<img width="1376" height="777" alt="Largest HDB Flat Finder Screenshot" src="https://github.com/user-attachments/assets/af089076-49af-4e81-9dee-1a194127f9d8" />
 <br> <br>
 Dashboard C) HDB Flat Finder_Transport and Schools Nearby (2 Pages)
 <img width="1375" height="776" alt="HDB Flat Finder_Transport and Schools Nearby Screenshot" src="https://github.com/user-attachments/assets/b6a57c1c-1adc-457c-88f7-ccb60cf33967" />
