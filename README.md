@@ -24,5 +24,9 @@ All datasets have been uploaded on the repository for easy reference.
 <br>
 <br>
 <h2> Dashboard Screenshots</h2>
-HDB Transactions Overview Dashboard
+Dashboard A) HDB Transactions Overview
 <img width="1370" height="771" alt="HDB Transactions Overview Screenshot" src="https://github.com/user-attachments/assets/72d246bb-353c-48a6-9ab9-18815ec3abca" />
+<br>
+Dashboard B) Largest HDB Flat Finder
+<img width="1371" height="771" alt="Largest HDB Flat Finder Screenshot" src="https://github.com/user-attachments/assets/caa6bdfd-0fa3-4692-bc23-14905acc188c" />
+
