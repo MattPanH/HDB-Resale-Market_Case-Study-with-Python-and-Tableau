@@ -29,4 +29,10 @@ Dashboard A) HDB Transactions Overview
 <br> <br>
 Dashboard B) Largest HDB Flat Finder
 <img width="1371" height="771" alt="Largest HDB Flat Finder Screenshot" src="https://github.com/user-attachments/assets/caa6bdfd-0fa3-4692-bc23-14905acc188c" />
+<br> <br>
+Dashboard C) HDB Flat Finder_Transport and Schools Nearby (2 Pages)
+<img width="1375" height="776" alt="HDB Flat Finder_Transport and Schools Nearby Screenshot" src="https://github.com/user-attachments/assets/b6a57c1c-1adc-457c-88f7-ccb60cf33967" />
+<br>
+<img width="1375" height="777" alt="HDB Flat Finder_Transport and Schools Nearby Pg2 Screenshot" src="https://github.com/user-attachments/assets/e3172253-136b-40f8-8bb5-82144a0f34d3" />
+
 
