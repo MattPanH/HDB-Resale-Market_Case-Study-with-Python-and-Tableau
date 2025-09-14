@@ -24,4 +24,5 @@ All datasets have been uploaded on the repository for easy reference.
 <br>
 <br>
 <h2> Dashboard Screenshots</h2>
-<img width="1587" height="894" alt="Drug Approval Forecast_Dashboard Screenshot" src="https://github.com/user-attachments/assets/067157e4-d16d-4737-8853-aac86f41275d" />
+HDB Transactions Overview Dashboard
+<img width="1370" height="771" alt="HDB Transactions Overview Screenshot" src="https://github.com/user-attachments/assets/72d246bb-353c-48a6-9ab9-18815ec3abca" />
