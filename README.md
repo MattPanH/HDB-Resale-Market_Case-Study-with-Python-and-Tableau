@@ -30,7 +30,7 @@ Dashboard A) HDB Resale Market Overview
 Dashboard B) Largest HDB Flat Finder
 <img width="1376" height="777" alt="Largest HDB Flat Finder Screenshot" src="https://github.com/user-attachments/assets/af089076-49af-4e81-9dee-1a194127f9d8" />
 <br> <br>
-Dashboard C) HDB Flat Finder_Transport and Schools Nearby (2 Pages)
+Dashboard C) HDB Flat Finder: Transport and Schools Nearby (2 Pages)
 <img width="1375" height="776" alt="HDB Flat Finder_Transport and Schools Nearby Screenshot" src="https://github.com/user-attachments/assets/b6a57c1c-1adc-457c-88f7-ccb60cf33967" />
 <br>
 <img width="1375" height="777" alt="HDB Flat Finder_Transport and Schools Nearby Pg2 Screenshot" src="https://github.com/user-attachments/assets/e3172253-136b-40f8-8bb5-82144a0f34d3" />
