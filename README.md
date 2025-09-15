@@ -24,8 +24,8 @@ All datasets have been uploaded on the repository for easy reference.
 <br>
 <br>
 <h2> Dashboard Screenshots</h2>
-Dashboard A) HDB Transactions Overview
-<img width="1375" height="776" alt="HDB Transactions Overview Screenshot" src="https://github.com/user-attachments/assets/a9a58230-7969-4343-adc9-86d5f3478866" />
+Dashboard A) HDB Resale Market Overview
+<img width="1376" height="777" alt="HDB Resale Market Overview Screenshot" src="https://github.com/user-attachments/assets/144a77d8-84b8-4d5f-a956-44e975113a8f" />
 <br> <br>
 Dashboard B) Largest HDB Flat Finder
 <img width="1376" height="777" alt="Largest HDB Flat Finder Screenshot" src="https://github.com/user-attachments/assets/af089076-49af-4e81-9dee-1a194127f9d8" />
